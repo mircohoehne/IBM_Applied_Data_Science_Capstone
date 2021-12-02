@@ -1,0 +1,2 @@
+# Introduction
+This repository contains the capstone Project of the IBM Data Science Course on Coursera. This Project combines the learned knowledge of the courses into an applied Data Science Project.
