@@ -7,9 +7,10 @@ Goal of the Project is helping a space travel startup to save costs. One big fac
     2. Web scraping
 2. Data wrangling
 3. Exploratory data analysis using:
-    1. Data visualization
-    2. Geo visualization
-    3. Dashboard
+    1. SQL
+    2. Data visualization
+    3. Geo visualization
+    4. Dashboard
 4. Building and evaluating a machine learning model
 5. Presentation of findings
 
